@@ -1,3 +1,11 @@
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Ubuntu&display=swap" rel="stylesheet">
+<style> 
+*{
+  font-family: 'Ubuntu'
+}
+</style>
 <h1 align="center">Hi 👋, I'm Hemil Patel</h1>
 <h3 align="center">On my journey to explore Web Development</h3>
 
