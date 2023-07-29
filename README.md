@@ -1,208 +1,25 @@
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Ubuntu&display=swap" rel="stylesheet">
-<style> 
-*{
-  font-family: 'Ubuntu'
-}
-</style>
 <h1 align="center">Hi 👋, I'm Hemil Patel</h1>
 <h3 align="center">On my journey to learning the fundamentals of web development and beyond</h3>
+# 💫 About Me:
+🌱 Building My Skills in Front-end and Back-end Technologies<br>🎯 2023: Learn more about Web Development<br>📧 How to reach me patelhemil585@gmail.com
 
-<img
-  align="right"
-  alt="coding"
-  width="400"
-  src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif"
-/>
+## 🌐 Socials:
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Hemil_3435) 
 
-<!-- 
-<p align="left">
-  <a href="https://twitter.com/marcos_3435" target="blank"
-    ><img
-      src="https://img.shields.io/twitter/follow/marcos_3435?logo=twitter&style=for-the-badge"
-      alt="marcos_3435"
-  /></a>
-</p> -->
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat&logo=socket.io&badgeColor=010101) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=flat&logo=gimp&logoColor=FFFFFF) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=HemilPatel3435&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=HemilPatel3435&theme=vision-friendly-dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=HemilPatel3435&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-🌱 Building My Skills in **Front-end** and **Back-end** Technologies <br>🎯 2023: Learn more about Web Development <br> 📧 How to reach me
-**patelhemil585@gmail.com**  
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=HemilPatel3435&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
+---
+[![](https://visitcount.itsvg.in/api?id=HemilPatel3435&icon=8&color=12)](https://visitcount.itsvg.in)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img
-      src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSxGzYpqhHbSUoBv1r0aUvPkVs7LBax1irbxdVmkF_dHm20fwVg"
-      alt="html5"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img
-      src="https://cdn.iconscout.com/icon/free/png-256/css3-8-1175200.png?f=avif&w=128"
-      alt="css3"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img
-      src="https://cdn.iconscout.com/icon/free/png-256/javascript-2752148-2284965.png?f=avif&w=128"
-      alt="javascript"
-      width="40"
-      height="40"
-    />
-  </a>
-
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img
-    src="https://cdn.iconscout.com/icon/free/png-256/bootstrap-226077.png?f=avif&w=128"
-      alt="bootstrap"
-      width="40"
-      height="40"
-    />
-  </a>
-
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
-      alt="tailwind"
-      width="40"
-      height="40"
-    />
-  </a>
-
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://1000logos.net/wp-content/uploads/2020/08/MongoDB-Logo.jpg"
-      alt="mongodb"
-      width="80"
-      height="60"
-    />
-  </a>
-
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img
-    src="https://cdn.iconscout.com/icon/free/png-256/express-9-1175170.png?f=avif&w=128"
-      alt="express"
-      width="60"
-      height="50"
-    />
-  </a>
-
-  <a href="https://angular.io" target="_blank" rel="noreferrer">
-    <img
-      src="https://angular.io/assets/images/logos/angular/angular.svg"
-      alt="angular"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://react.dev/" target="_blank" rel="noreferrer">
-    <img
-      src="https://cdn.iconscout.com/icon/free/png-256/react-1543566-1306069.png?f=avif&w=128"
-      alt="reactjs"
-      width="40"
-      height="40"
-    />
-  </a>
-
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png"
-      alt="nodejs"
-      width="60"
-      height="40"
-    />
-  </a>
-
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img
-    src="https://cdn.iconscout.com/icon/free/png-256/linux-21-1174928.png?f=avif&w=128"
-      alt="linux"
-      width="40"
-      height="40"
-    />
-  </a>
-
-  <a href="https://www.apache.org/" target="_blank" rel="noreferrer">
-    <img
-    src="https://cdn.iconscout.com/icon/free/png-256/apache-3521274-2944778.png?f=avif&w=128"
-      alt="apache"
-      width="60"
-      height="50"
-    />
-  </a>
-
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://1000logos.net/wp-content/uploads/2020/08/MySQL-Logo.png"
-      alt="mysql"
-      width="70"
-      height="40"
-    />
-  </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img
-      src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png"
-      alt="php"
-      width="60"
-      height="40"
-    />
-  </a>
-
-  <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-    <img
-    src="https://cdn.iconscout.com/icon/free/png-256/laravel-2038872-1720085.png?f=avif&w=128"
-      alt="laravel"
-      width="40"
-      height="40"
-    />
-  </a>
-
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img
-    src="https://cdn.iconscout.com/icon/free/png-256/python-2-226051.png?f=avif&w=128"
-      alt="python"
-      width="50"
-      height="50"
-    />
-  </a>
-
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://cdn.worldvectorlogo.com/logos/django.svg"
-      alt="django"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img
-    src="https://cdn.iconscout.com/icon/free/png-256/aws-1869025-1583149.png?f=avif&w=128"
-      alt="aws"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
-      alt="git"
-      width="40"
-      height="40"
-    />
-  </a>
-</p>
-
-<p>
-  <img
-    align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=hemilpatel3435&show_icons=true&locale=en&layout=compact"
-    alt="hemilpatel3435"
-  />
-</p>
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
