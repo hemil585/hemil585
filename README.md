@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Hemil Patel</h1>
 <h3 align="center">On my journey to learning the fundamentals of web development and beyond</h3>
-# 💫 About Me:
-🌱 Building My Skills in Front-end and Back-end Technologies<br>🎯 2023: Learn more about Web Development<br>📧 How to reach me patelhemil585@gmail.com
-
+💫 <b>About Me</b><br>
+🌱 Building My Skills in <b>Front-end</b> and <b>Back-end</b> Technologies<br>🎯 2023: Learn more about Web Development<br>📧 How to reach me patelhemil585@gmail.com
+</div>
 ## 🌐 Socials:
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Hemil_3435) 
 
