@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hemil Patel</h1>
 <h3 align="center">On my journey to learning the fundamentals of web development and beyond</h3>
 💫 <b>About Me</b><br>
-🌱 Building My Skills in <b>Front-end</b> and <b>Back-end</b> Technologies<br>🎯 2023: Learn more about Web Development<br>📧 How to reach me <a href='patelhemil585@gmail.com'>patelhemil585@gmail.com</a>
+🌱 Building My Skills in <b>Front-end</b> and <b>Back-end</b> Technologies<br>🎯 2023: Learn more about Web Development<br>📧 How to reach me <a href='mailto:patelhemil585@gmail.com'>patelhemil585@gmail.com</a>
 </div>
 
 ## 🌐 Socials:
