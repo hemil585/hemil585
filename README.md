@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <img src="https://i.gifer.com/origin/7b/7b3f66536491d5ce54ea4d6ff21585e4_w200.gif" width="200"/>
+</div>
+
 <h1 align="center">Hi 👋, I'm Hemil Patel</h1>
 <h3 align="center">On my journey to learning the fundamentals of web development and beyond</h3>
 💫 <b>About Me</b><br>
