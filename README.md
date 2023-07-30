@@ -48,19 +48,19 @@
 # 📊 GitHub Stats:
 <h1 align="center">
   
-![](https://github-readme-stats.vercel.app/api?username=HemilPatel3435&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.vercel.app/api?username=hemil585&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false)
 
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=HemilPatel3435&theme=vision-friendly-dark&hide_border=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=hemil585&theme=vision-friendly-dark&hide_border=false)
 
   
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=HemilPatel3435&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hemil585&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 </h1>
 
 </br>
 
 ## 📈 GitHub Activity Graph
-[![Hemil's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HemilPatel3435&bg_color=181816&color=dccf1e&line=ffae00&point=000000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Hemil's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hemil585&bg_color=181816&color=dccf1e&line=ffae00&point=000000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </br>
 
