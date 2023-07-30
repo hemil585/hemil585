@@ -8,7 +8,8 @@
 🌱 Building My Skills in <b>Front-end</b> and <b>Back-end</b> Technologies<br>🎯 2023: Learn more about Web Development<br>📧 How to reach me <a href='mailto:patelhemil585@gmail.com'>patelhemil585@gmail.com</a>
 </div></br></br></br></hr>
 
-## 🌐 Socials:
+<h1><b>🌐 Socials:</b></h1>
+
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Hemil_3435)  
 </br>
 <h1># 💻 Tech Stack:</h1>
