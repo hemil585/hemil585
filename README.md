@@ -30,25 +30,38 @@
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white)  
-</br>
+
 <h3>💽 DATABASES:</h3>
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) 
 </br>
-<h3>OTHER:</h3>
+<h3>🦾 OTHER:</h3>
 
 ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=flat&logo=gimp&logoColor=FFFFFF) 
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=HemilPatel3435&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=HemilPatel3435&theme=vision-friendly-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=HemilPatel3435&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</br>
+</hr>
 
+# 📊 GitHub Stats:
+<h1 align="center">
+  
+![](https://github-readme-stats.vercel.app/api?username=HemilPatel3435&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false)
+
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=HemilPatel3435&theme=vision-friendly-dark&hide_border=false)
+
+  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=HemilPatel3435&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</h1>
+
+</br>
 
 ## 📈 GitHub Activity Graph
 [![Hemil's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HemilPatel3435&bg_color=181816&color=dccf1e&line=ffae00&point=000000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</br>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
