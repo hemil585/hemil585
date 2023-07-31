@@ -8,11 +8,12 @@
 🌱 Building My Skills in <b>Front-end</b> and <b>Back-end</b> Technologies<br>🎯 2023: Learn more about Web Development<br>📧 How to reach me <a href='mailto:patelhemil585@gmail.com'>patelhemil585@gmail.com</a>
 </div></br></br></br></hr>
 
-<h1><b>🌐 Socials:</b></h1>
+<h1 align="center"><b>🌐 Socials</b></h1>
 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Hemil_3435)  
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@ByteMeUp) 
 </br>
-<h1># 💻 Tech Stack:</h1>
+<h1 align="center"># 💻 Tech Stack</h1>
 
 <h3>👨‍💻 LANGUAGES:</h3>
 
@@ -45,8 +46,11 @@
 </br>
 </hr>
 
-# 📊 GitHub Stats:
+
 <h1 align="center">
+# 📊 GitHub Stats
+</br>
+</br>
   
 ![](https://github-readme-stats.vercel.app/api?username=hemil585&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false)
 
@@ -59,12 +63,17 @@
 
 </br>
 
+<h1 align="center">
+  
 ## 📈 GitHub Activity Graph
+
 [![Hemil's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hemil585&bg_color=181816&color=dccf1e&line=ffae00&point=000000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+</h1>
 </br>
-
+<h1 align="center">
+  
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
+</h1>
