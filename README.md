@@ -1,8 +1,5 @@
-<div id="header" align="center">
-  <img src="https://i.pinimg.com/originals/41/7d/3a/417d3ae247afab4ef4e1016dd494185c.gif" width="200"/>
-</div>
-
-<h1 align="center">Hi 👋, I'm Hemil Patel</h1>
+<h1 align="center">Hi <img src ="https://em-content.zobj.net/source/noto-emoji-animations/344/waving-hand_1f44b.gif" width="40" height="40"></img>
+  , I'm Hemil Patel</h1>
 <h3 align="center">On my journey to learning the fundamentals of web development and beyond</h3>
  <h1>💫About Me</h1>
 🌱 Building My Skills in <b>Front-end</b> and <b>Back-end</b> Technologies<br>🎯 2023: Learn more about Web Development<br>📧 How to reach me <a href='mailto:patelhemil585@gmail.com'>patelhemil585@gmail.com</a>
