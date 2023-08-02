@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src ="https://em-content.zobj.net/source/noto-emoji-animations/344/waving-hand_1f44b.gif" width="35" height="35"></img>
+<h1 align="center">Hi <img src ="https://em-content.zobj.net/source/noto-emoji-animations/344/waving-hand_1f44b.gif" width="35" height="37"></img>
   , I'm Hemil Patel</h1>
 <h3 align="center">On my journey to learning the fundamentals of web development and beyond</h3>
  <h1>💫About Me</h1>
