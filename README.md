@@ -66,10 +66,27 @@
 
 [![Hemil's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hemil585&bg_color=181816&color=dccf1e&line=ffae00&point=000000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </h1>
+
+
 </br>
+
+</br>
+
+
+</hr>
+
+
 <h1 align="center">
   
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ud7lzeep4etezpr0eyiruatlo&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=true&bar_color=00ff00&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=ud7lzeep4etezpr0eyiruatlo&redirect=true)
 
 ---
+</h1>
+
+
+<h1 align="center">
+  
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
 </h1>
