@@ -48,7 +48,7 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
 </br>
 
-<h3>🖳 OS:</h3>
+<h3>🖥️ OS:</h3>
 
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
