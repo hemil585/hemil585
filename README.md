@@ -5,14 +5,14 @@
 </h1>
 <h3 align="center">On my journey to learning the fundamentals of web development and beyond</h3>
  <h1>💫About Me</h1>
-🌱 Building My Skills in <b>Front-end</b> and <b>Back-end</b> Technologies.<br>
+🌱 Building My Skills in <b>Front-end</b> and <b>Back-end</b> Technologies.<br><br>
 🔭 I'm currently learning Typescript, Postgres, Solidity and 69 others.
-<br>
+<br><br>
 🎯 2023: Learn more about Web Development.
-<br>
+<br><br>
 
 💬 Ask me about anything [here](https://github.com/hemil585/hemil585/issues).
-<br>
+<br><br>
 📧 How to reach me <a href='mailto:patelhemil585@gmail.com'>patelhemil585@gmail.com</a>
 </div></br></br></br></hr>
 
