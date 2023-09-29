@@ -16,43 +16,48 @@
 📧 How to reach me <a href='mailto:patelhemil585@gmail.com'>patelhemil585@gmail.com</a>
 </div></br></br></br></hr>
 
-<h1 align="center"><b>🌐 Socials</b></h1>
-
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Hemil_3435)        [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hemil_585) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@ByteMeUp) 
 </br>
+
 <h1 align="center"># 💻 Tech Stack</h1>
 
-<h3>👨‍💻 LANGUAGES:</h3>
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white)
-</br>
-<h3>🛠️ HOSTING:</h3>
+<h2>🖥️ OS:</h2>
 
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) 
-</br>
-<h3>📚 FRAMEWORKS & LIBRARIES:</h3>
-
-
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)   ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white) 
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
-</br>
-
-<h3>💽 DATABASES:</h3>
-
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) 
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
-</br>
-
-<h3>🖥️ OS:</h3>
-
-![LINUX](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+<a target="_blank" href="https://www.linux.org/"> <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg"/> </a>
 
 </br>
+
+<h2>👨‍💻 LANGUAGES:</h2>
+
+<a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/50px-HTML5_Badge.svg.png" /></a> <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/50px-CSS3_logo.svg.png" /></a> <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/50px-Unofficial_JavaScript_logo_2.svg.png" /></a> <a target="_blank" href="https://www.typescriptlang.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Typescript.svg/50px-Typescript.svg.png" /></a> <a target="_blank" href="https://www.php.net/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/80px-PHP-logo.svg.png" /></a> <a target="_blank" href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/50px-Python-logo-notext.svg.png" /></a> <a target="_blank" href="https://www.gnu.org/software/bash/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/65px-Bash_Logo_Colored.svg.png" /></a>  
+
+</br>
+<h2>🛠️ HOSTING:</h2>
+</br>
+
+<a target="_blank" href="https://vercel.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Vercel_logo_black.svg/130px-Vercel_logo_black.svg.png"/></a>
+
+<a target="_blank" href="https://www.netlify.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Netlify_logo_%282%29.svg/130px-Netlify_logo_%282%29.svg.png" /></a>
+
+<a target="_blank" href="https://render.com/"><img src="https://upload.vectorlogo.zone/logos/render/images/bb711e6b-3dc7-496f-b665-10558e88ceed.svg" width="130" /></a>
+
+</br>
+<h2>📚 FRAMEWORKS & LIBRARIES:</h2>
+
+
+<a target="_blank" href="https://react.dev/"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/50px-React-icon.svg.png" /> </a>  <a target="_blank" href="https://nextjs.org/"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Cib-next-js_%28CoreUI_Icons_v1.0.0%29.svg/50px-Cib-next-js_%28CoreUI_Icons_v1.0.0%29.svg.png" /> </a>  <a target="_blank" href="https://nodejs.dev/en/"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/80px-Node.js_logo.svg.png" /> </a>  <a target="_blank" href="https://expressjs.com/"> <img src="https://upload.vectorlogo.zone/logos/expressjs/images/a1b5cb1f-dae7-4971-ab5b-68efce751b0f.svg" width="50" /> </a>  <a target="_blank" href="https://tailwindcss.com/"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/70px-Tailwind_CSS_Logo.svg.png"/> </a> <a target="_blank" href="https://getbootstrap.com/"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/55px-Bootstrap_logo.svg.png"/> </a>
+
+</br>
+
+<h2>💽 DATABASES:</h2>
+
+<a target="_blank" href="https://www.mongodb.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Mongodb-ar21.svg/110px-Mongodb-ar21.svg.png" /></a><a target="_blank" href="https://www.mysql.com/"><img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" /></a><a target="_blank" href="https://www.postgresql.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/55px-Postgresql_elephant.svg.png" /></a>
+</br>
+
+<h2>🎨 DESIGN:</h2>
+
+<a target="_blank" href="https://www.figma.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/40px-Figma-logo.svg.png" /></a>
+
 </hr>
 
 
