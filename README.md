@@ -54,11 +54,13 @@
 <a target="_blank" href="https://www.mongodb.com/"><img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="50" /></a> <a target="_blank" href="https://www.mysql.com/"><img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" width="50" /></a> <a target="_blank" href="https://www.postgresql.org/"><img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="50" /></a>
 
 </br>
-</br>
 
 <h2>🎨 DESIGN:</h2>
 
 <a target="_blank" href="https://www.figma.com/"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="50" /></a>
+
+</br>
+</br>
 
 </hr>
 
