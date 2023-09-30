@@ -30,7 +30,7 @@
 
 <h2>👨‍💻 LANGUAGES:</h2>
 
-<a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="50" /></a> <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" width="50" /></a> <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg" width="50" /></a> <a target="_blank" href="https://www.typescriptlang.org/"><img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" width="50" /></a> <a target="_blank" href="https://www.php.net/"><img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" width="55" /></a> <a target="_blank" href="https://www.python.org/"><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="50" /></a> <a target="_blank" href="https://www.gnu.org/software/bash/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/65px-Bash_Logo_Colored.svg.png" /></a>  
+<a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="50" /></a> <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" width="50" /></a> <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg" width="50" /></a> <a target="_blank" href="https://www.typescriptlang.org/"><img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" width="50" /></a> <a target="_blank" href="https://www.php.net/"><img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" width="55" /></a> <a target="_blank" href="https://www.python.org/"><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="50" /></a> <a target="_blank" href="https://www.gnu.org/software/bash/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/65px-Bash_Logo_Colored.svg.png" /></a>  
 
 </br>
 <h2>🛠️ HOSTING:</h2>
@@ -101,6 +101,5 @@
 <h1 align="center">
   
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ud7lzeep4etezpr0eyiruatlo&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=true&bar_color=00ff00&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=ud7lzeep4etezpr0eyiruatlo&redirect=true)
-
----
 </h1>
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
