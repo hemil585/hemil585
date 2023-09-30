@@ -1,11 +1,13 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Hemil+Patel....;Nice+to+meet+you!&center=true&size=30">
-  </a>
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Hemil+Patel....;Nice+to+meet+you!&center=true&size=30"></a>
 </h1>
+
+
 <h3 align="center">On my journey to learning the fundamentals of web development and beyond</h3>
- <h1>💫About Me</h1>
-🌱 Building My Skills in <b>Front-end</b> and <b>Back-end</b> Technologies.<br><br>
+
+![1642320423853](https://user-images.githubusercontent.com/48784001/203785020-2b4826c1-7ddb-4de8-b65b-ebf6e04c5290.jpeg)
+ <h1>💫About Me</h1>🌱 Building My Skills in <b>Front-end</b> and <b>Back-end</b> Technologies.<br><br>
 🔭 I'm currently learning Typescript, Postgres, Solidity and 69 others.
 <br><br>
 🎯 2023: Learn more about Web Development.
