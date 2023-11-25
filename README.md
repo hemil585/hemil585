@@ -1,9 +1,22 @@
-<p align="center"  style="margin:  >
-
-  <img  
-  src="https://readme-typing-svg.demolab.com/?lines=Hello%20There!%20;I'm%20Hemil%20Patel....;Nice%20to%20meet%20you!;&font=Fira%20Code&center=true&width=440&height=45&color=20C20E&vCenter=true&pause=1000&size=25" />
+<p align="center">
+  
+<img src="https://readme-typing-svg.demolab.com/?lines=Hello%20There!%20;I'm%20Hemil%20Patel....;Nice%20to%20meet%20you!;&font=Fira%20Code&center=true&width=440&height=45&color=20C20E&vCenter=true&pause=1000&size=25" />
 
 </p>
+
+<h2 align="center">On my journey to learning the fundamentals of web development and beyond</h2>
+<br/>
+
+ <p align="center">🅐🅑🅞🅤🅣 🅜🅔</p>🌱 Building My Skills in <b>Front-end</b> and <b>Back-end</b> Technologies.<br><br>
+🔭 I'm currently learning Typescript, Postgres, Solidity and 69 others.
+<br><br>
+🎯 2023: Learn more about Web Development.
+<br><br>
+
+💬 Ask me about anything [here](https://discordapp.com/users/584687212298502147).
+<br><br>
+📧 How to reach me <a href='mailto:patelhemil585@gmail.com'>patelhemil585@gmail.com</a>
+</div>
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -34,7 +47,6 @@
 
 <br/>
 <br/>
-<br/>
 
 <p align="center">
     🅖🅘🅣🅗🅤🅑 🅢🅣🅐🅣🅢
@@ -52,7 +64,6 @@
             width="48%" alt="@Hemil's github-readme-streak-stats "/></a>
 </p>
 
-<br />
 <br/>
 <br/>
 
