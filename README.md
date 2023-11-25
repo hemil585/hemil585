@@ -1,107 +1,208 @@
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Hemil+Patel....;Nice+to+meet+you!&center=true&size=30"></a>
-</h1>
+<p align="center"  style="margin:  >
+
+  <img  
+  src="https://readme-typing-svg.demolab.com/?lines=Hello%20There!%20;I'm%20Hemil%20Patel....;Nice%20to%20meet%20you!;&font=Fira%20Code&center=true&width=440&height=45&color=20C20E&vCenter=true&pause=1000&size=25" />
+
+</p>
 
 
-<h3 align="center">On my journey to learning the fundamentals of web development and beyond</h3>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-![1642320423853](https://user-images.githubusercontent.com/48784001/203785020-2b4826c1-7ddb-4de8-b65b-ebf6e04c5290.jpeg)
- <h1>💫About Me</h1>🌱 Building My Skills in <b>Front-end</b> and <b>Back-end</b> Technologies.<br><br>
-🔭 I'm currently learning Typescript, Postgres, Solidity and 69 others.
-<br><br>
-🎯 2023: Learn more about Web Development.
-<br><br>
+<p align="center">
+    🅒🅞🅝🅝🅔🅒🅣 🅦🅘🅣🅗 🅜🅔
+</p>
+<p align="center">
+    <a href="https://www.buymeacoffee.com/hemilpatel" target="_blank"><img alt=""
+            src="https://img.shields.io/badge/Help%20Me-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"
+            style="vertical-align:center" /></a>
+    <a href="https://discordapp.com/users/584687212298502147" target="_blank"><img alt=""
+            src="https://img.shields.io/badge/discord-000?style=for-the-badge&logo=discord&logoColor=4e5d94"
+            style="vertical-align:center" /></a>
+    <a href="https://hemilpatel.netlify.app" target="_blank"><img alt=""
+            src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge"
+            style="vertical-align:center" /></a>
+    <a href="https://twitter.com/Hemil_3435" target="_blank"><img alt=""
+            src="https://img.shields.io/badge/Twitter-000?logo=Twitter&logoColor=1DA1F2&style=for-the-badge"
+            style="vertical-align:center" /></a>
+    <a href="https://linkedin.com/in/hemilpatel585" target="_blank"><img alt=""
+            src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge"
+            style="vertical-align:center" /></a>
+    <a href="mailto:getintorj@gmail.com" target="_blank"><img alt="Email"
+            src="https://img.shields.io/badge/gmail%20-000?style=for-the-badge&logo=gmail&logoColor=BB001B"
+            style="vertical-align:center" /></a>
+</p>
 
-💬 Ask me about anything [here](https://github.com/hemil585/hemil585/issues).
-<br><br>
-📧 How to reach me <a href='mailto:patelhemil585@gmail.com'>patelhemil585@gmail.com</a>
-</div></br></br></br></hr>
+<br/>
+<br/>
+<br/>
 
-</br>
+<p align="center">
+    🅖🅘🅣🅗🅤🅑 🅢🅣🅐🅣🅢
+</p>
 
-<h1 align="center"># 💻 Tech Stack</h1>
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemil585&theme=vision-friendly-dark&layout=compact"
+        width="47%" />
+</p>
 
-</br>
+<p align="center">
+    <a href="https://github.com/Hemil585?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=hemil585&theme=vision-friendly-dark&show_icons=true&count_private=true&hide_border=false&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@Getintorj's github-readme-stats"/></a>
+    <a href="https://github.com/Hemil585?tab=repositories"><img
+            src="https://github-readme-streak-stats.herokuapp.com/?user=hemil585&theme=vision-friendly-dark&hide_border=false"
+            width="48%" alt="@Hemil's github-readme-streak-stats "/></a>
+</p>
 
-<h2>🖥️ OS:</h2>
+<br />
+<br/>
+<br/>
 
-<a target="_blank" href="https://www.linux.org/"> <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg"/> </a>
+<p align="center">
+        🅣🅔🅒🅗 🅢🅣🅐🅒🅚<br>
+</p>
 
-</br>
+<div style="display: flex; align-items: flex-start; align: center">
+    <table align="center">
+        <tr>
+           <td align="center" width="96">
+                <img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML5" />
+                <br>HTML5
+            </td>
+            <td align="center" width="96">
+                <img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="css" />
+                <br>CSS
+            </td>
+            <td align="center" width="96">
+                <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="40" height="40" />
+                <br>JavaScript
+            </td>
+            <td align="center" width="96">
+                <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="40" height="40" />
+                <br>TypeScript
+            </td>
+            <td align="center" width="96">
+                <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="40" height="40" />
+                <br>React
+            </td>
+            <td align="center" width="96">
+                <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="40" height="40" />
+                <br>REST-Api
+            </td>
+            <td align="center" width="96">
+                <img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40" alt="MongoDB" />
+                <br>MongoDB
+            </td>
+            <td align="center" width="96">
+                <img src="https://skillicons.dev/icons?i=express" alt="icon" width="40" height="40" />
+                <br>Express
+            </td>
+        </tr>
+        <tr>
+            <td align="center" width="96">
+                <a href="https://www.python.org/">
+                    <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="40"
+                        height="40" />
+                </a>
+                <br>Python
+            </td>
+            <td align="center" width="96">
+                <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="40" height="40" />
+                <br>Django
+            <td align="center" width="96">
+                <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png"
+                    width="40" height="40" alt="Git" />
+                <br>Git
+            </td>
+            <td align="center" width="96">
+                <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="40" height="40" />
+                <br>Github
+            </td>
+            <td align="center" width="96">
+                <a href="#macropower-tech">
+                    <img src="https://skillicons.dev/icons?i=solidity" alt="icon" width="40"
+                        height="40" />
+                </a>
+                <br>Solidity
+            </td>
+            <td align="center" width="96">
+                <img src="https://skillicons.dev/icons?i=bootstrap" width="40" height="40" alt="bootstrap" />
+                <br>Bootstrap
+            </td>
+            <td align="center" width="96">
+                <img src="https://skillicons.dev/icons?i=next" width="40" height="40" alt="jQuery" />
+                <br>Next
+            </td>
+            <td align="center" width="96">
+                <img src="https://techstack-generator.vercel.app/redux-icon.svg" width="40" height="40" alt="Redux" />
+                <br>Redux
+            </td>
+        </tr>
+        <tr>
+            <td align="center" width="96">
+                <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="Nodejs" />
+                <br>Nodejs
+            </td>
+            </td>
+            <td align="center" width="96">
+                <img src="https://skillicons.dev/icons?i=php" width="40" height="40" alt="PHP" />
+                <br>PHP
+            </td>
+            <td align="center" width="96">
+                <img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40" alt="WordPress" />
+                <br>TailwindCSS
+            </td>
+            <td align="center" width="96">
+                <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="40" height="40" />
+                <br>MySQL
+            </td>
+            <td align="center" width="96">
+                <img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" alt="PostgreSQL" />
+                <br>PostgreSQL
+            </td>
+            <td align="center" width="96">
+                <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="40" height="40" />
+                <br>Webpack
+            </td>
+            <td align="center" width="96">
+                <img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" alt="VsCode" />
+                <br>VsCode
+            </td>
+            <td align="center" width="96">
+                <img src="https://cdn.worldvectorlogo.com/logos/bash-2.svg"
+                    width="40" height="40" alt="Bash Scripting" />
+                <br>Bash
+            </td>
+        </tr>
+    </table>
+    <br><br>
 
-<h2>👨‍💻 LANGUAGES:</h2>
+    
+#### 🅓🅔🅢🅘🅖🅝/🅥🅘🅢🅤🅐🅛 🅣🅞🅞🅛🅢
+![Figma](https://img.shields.io/badge/-Figma-000?style=for-the-badge&logo=figma)
+![Framer](https://img.shields.io/badge/-Framer-000?style=for-the-badge&logo=framer)
+![Canva](https://img.shields.io/badge/-Canva-000?style=for-the-badge&logo=canva)
 
-<a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="50" /></a> <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" width="50" /></a> <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg" width="50" /></a> <a target="_blank" href="https://www.typescriptlang.org/"><img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" width="50" /></a> <a target="_blank" href="https://www.php.net/"><img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" width="55" /></a> <a target="_blank" href="https://www.python.org/"><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="50" /></a> <a target="_blank" href="https://www.gnu.org/software/bash/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/65px-Bash_Logo_Colored.svg.png" /></a>  
+#### 🅦🅔🅑 🅗🅞🅢🅣🅘🅝🅖
+![Vercel](https://img.shields.io/badge/-Vercel-000?style=for-the-badge&logo=vercel)
+![Firebase](https://img.shields.io/badge/-Firebase-000?style=for-the-badge&logo=firebase)
+![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-000?style=for-the-badge&logo=github)
+![Netlify](https://img.shields.io/badge/-Netlify-000?style=for-the-badge&logo=netlify)
 
-</br>
-<h2>🛠️ HOSTING:</h2>
-</br>
+#### 🅥🅔🅡🅢🅘🅞🅝 🅒🅞🅝🅣🅡🅞🅛
+![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)
 
-<a target="_blank" href="https://vercel.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Vercel_logo_black.svg/130px-Vercel_logo_black.svg.png"/></a>
-
-<a target="_blank" href="https://www.netlify.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Netlify_logo_%282%29.svg/130px-Netlify_logo_%282%29.svg.png" /></a>
-
-<a target="_blank" href="https://render.com/"><img src="https://upload.vectorlogo.zone/logos/render/images/bb711e6b-3dc7-496f-b665-10558e88ceed.svg" width="130" /></a>
-
-</br>
-<h2>📚 FRAMEWORKS & LIBRARIES:</h2>
-
-
-<a target="_blank" href="https://react.dev/"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="50" /> </a>  <a target="_blank" href="https://nextjs.org/"> <img src="https://seeklogo.com/images/N/next-js-icon-logo-EE302D5DBD-seeklogo.com.png" width="60" /> </a>  <a target="_blank" href="https://nodejs.dev/en/"> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" width="50" /> </a>  <a target="_blank" href="https://expressjs.com/"> <img src="https://upload.vectorlogo.zone/logos/expressjs/images/a1b5cb1f-dae7-4971-ab5b-68efce751b0f.svg" width="50" /> </a>  <a target="_blank" href="https://tailwindcss.com/"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="60" /> </a> <a target="_blank" href="https://getbootstrap.com/"> <img src="https://upload.vectorlogo.zone/logos/getbootstrap/images/987f8f6c-263a-47b1-a85d-853cfca215d9.svg" width="50" /> </a>
-
-</br>
-
-<h2>💽 DATABASES:</h2>
-
-<a target="_blank" href="https://www.mongodb.com/"><img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="50" /></a> <a target="_blank" href="https://www.mysql.com/"><img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" width="50" /></a> <a target="_blank" href="https://www.postgresql.org/"><img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="50" /></a>
-
-</br>
-
-<h2>🎨 DESIGN:</h2>
-
-<a target="_blank" href="https://www.figma.com/"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="50" /></a>
-
-</br>
-</br>
-
-</hr>
+<br/>
+<br/>
 
 
-<h1 align="center">
-# 📊 GitHub Stats
-</br>
-</br>
-  
-![](https://github-readme-stats.vercel.app/api?username=hemil585&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false)
+<p align="center">
+            <img src="https://github-readme-activity-graph.vercel.app/graph?username=hemil585&bg_color=181816&color=dccf1e&line=ffae00&point=000000&area=true&hide_border=true"
+                width="95%" alt="activity graph">
+    </p>
 
+ <p align="center">
+        <a href="https://github.com/hemil585">
+            <img src="https://github-profile-trophy.vercel.app/?username=hemil585&column=-1&theme=dracula&layout=compact"
+                width="95%" />
+    </p>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=hemil585&theme=vision-friendly-dark&hide_border=false)
-
-  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hemil585&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-</h1>
-
-</br>
-
-<h1 align="center">
-  
-## 📈 GitHub Activity Graph
-
-[![Hemil's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hemil585&bg_color=181816&color=dccf1e&line=ffae00&point=000000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-</h1>
-
-
-</br>
-
-</br>
-
-
-</hr>
-
-
-<h1 align="center">
-  
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ud7lzeep4etezpr0eyiruatlo&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=true&bar_color=00ff00&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=ud7lzeep4etezpr0eyiruatlo&redirect=true)
-</h1>
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
