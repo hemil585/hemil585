@@ -5,6 +5,9 @@
 </p>
 
 <h2 align="center">On my journey to learning the fundamentals of web development and beyond</h2>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <br/>
 
  <p align="center">🅐🅑🅞🅤🅣 🅜🅔</p>🌱 Building My Skills in <b>Front-end</b> and <b>Back-end</b> Technologies.<br><br>
@@ -18,8 +21,8 @@
 📧 How to reach me <a href='mailto:patelhemil585@gmail.com'>patelhemil585@gmail.com</a>
 </div>
 
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br/>
+<br/>
 
 <p align="center">
     🅒🅞🅝🅝🅔🅒🅣 🅦🅘🅣🅗 🅜🅔
@@ -217,3 +220,12 @@
                 width="95%" />
     </p>
 
+<br/>
+<h1 align="center">
+  🎧🎶🎵
+  <br />
+    <br />
+
+  
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ud7lzeep4etezpr0eyiruatlo&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=true&bar_color=00ff00&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=ud7lzeep4etezpr0eyiruatlo&redirect=true)
+</h1>
