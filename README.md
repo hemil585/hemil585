@@ -5,7 +5,6 @@
 </p>
 
 <h2 align="center">On my journey to learning the fundamentals of web development and beyond</h2>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <br/>
@@ -43,7 +42,7 @@
     <a href="https://linkedin.com/in/hemilpatel585" target="_blank"><img alt=""
             src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge"
             style="vertical-align:center" /></a>
-    <a href="mailto:getintorj@gmail.com" target="_blank"><img alt="Email"
+    <a href="mailto:patelhemil585@gmail.com" target="_blank"><img alt="Email"
             src="https://img.shields.io/badge/gmail%20-000?style=for-the-badge&logo=gmail&logoColor=BB001B"
             style="vertical-align:center" /></a>
 </p>
