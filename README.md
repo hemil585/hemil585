@@ -29,7 +29,7 @@
     <a href="https://www.buymeacoffee.com/hemilpatel" target="_blank"><img alt=""
             src="https://img.shields.io/badge/Help%20Me-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"
             style="vertical-align:center" /></a>
-    <a href="https://discordapp.com/users/584687212298502147" target="_blank"><img alt=""
+    <a href="discordapp.com/users/584687212298502147" target="_blank"><img alt=""
             src="https://img.shields.io/badge/discord-000?style=for-the-badge&logo=discord&logoColor=4e5d94"
             style="vertical-align:center" /></a>
     <a href="https://hemilpatel.netlify.app" target="_blank"><img alt=""
