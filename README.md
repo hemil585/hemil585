@@ -35,7 +35,7 @@
     <a href="https://hemilpatel.netlify.app" target="_blank"><img alt=""
             src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge"
             style="vertical-align:center" /></a>
-    <a href="https://twitter.com/Hemil_3435" target="_blank"><img alt=""
+    <a href="https://twitter.com/0xHemil" target="_blank"><img alt=""
             src="https://img.shields.io/badge/Twitter-000?logo=Twitter&logoColor=1DA1F2&style=for-the-badge"
             style="vertical-align:center" /></a>
     <a href="https://linkedin.com/in/hemilpatel585" target="_blank"><img alt=""
@@ -187,10 +187,14 @@
     </table>
     <br><br>
 
+#### 🅞🅢
+![Linux](https://img.shields.io/badge/-Linux-000?style=for-the-badge&logo=linux)
     
 #### 🅓🅔🅢🅘🅖🅝/🅥🅘🅢🅤🅐🅛 🅣🅞🅞🅛🅢
 ![Figma](https://img.shields.io/badge/-Figma-000?style=for-the-badge&logo=figma)
 ![Framer](https://img.shields.io/badge/-Framer-000?style=for-the-badge&logo=framer)
+![GSAP](https://img.shields.io/badge/-Green%20Sock-000?style=for-the-badge&logo=greensock)
+![Threejs](https://img.shields.io/badge/-threejs-000?style=for-the-badge&logo=three.js)
 ![Canva](https://img.shields.io/badge/-Canva-000?style=for-the-badge&logo=canva)
 
 #### 🅦🅔🅑 🅗🅞🅢🅣🅘🅝🅖
@@ -198,6 +202,7 @@
 ![Firebase](https://img.shields.io/badge/-Firebase-000?style=for-the-badge&logo=firebase)
 ![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-000?style=for-the-badge&logo=github)
 ![Netlify](https://img.shields.io/badge/-Netlify-000?style=for-the-badge&logo=netlify)
+![Render](https://img.shields.io/badge/-Render-000?style=for-the-badge&logo=render)
 
 #### 🅥🅔🅡🅢🅘🅞🅝 🅒🅞🅝🅣🅡🅞🅛
 ![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
