@@ -68,6 +68,8 @@
 <br/>
 <br/>
 
+---
+
 <p align="center">
         🅣🅔🅒🅗 🅢🅣🅐🅒🅚<br>
 </p>
@@ -185,8 +187,8 @@
             </td>
         </tr>
     </table>
-    <br><br>
-
+<br/>
+  
 #### 🅞🅢
 ![Linux](https://img.shields.io/badge/-Linux-000?style=for-the-badge&logo=linux)
     
@@ -208,8 +210,7 @@
 ![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)
 
-<br/>
-<br/>
+---
 
 
 <p align="center">
@@ -223,13 +224,12 @@
                 width="95%" />
     </p>
 
-<br/>
+---
 <br/>
 <h1 align="center">
   🎧🎶🎵
   <br />
   <br />
-
   
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ud7lzeep4etezpr0eyiruatlo&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=true&bar_color=00ff00&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=ud7lzeep4etezpr0eyiruatlo&redirect=true)
 </h1>
