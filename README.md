@@ -226,10 +226,31 @@
 
 ---
 <br/>
-<h1 align="center">
-  🎧🎶🎵
-  <br />
-  <br />
+
+ <h2 align="center" width="20" >
+
+<a href="https://github.com/hemil585"> 
+<img align="left" src="https://media.giphy.com/media/cOfwtFobGCLJBU3DNn/giphy.gif" width="70" height="70" ></a>
+<a href="https://github.com/hemil585"> 
+ <img align="right"  src="https://media.giphy.com/media/cOfwtFobGCLJBU3DNn/giphy.gif" width="70" height="70" > </a>
+   
+  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ud7lzeep4etezpr0eyiruatlo&cover_image=true&theme=natemoo-re&show_offline=false&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+ </h2>
+
+
+
+<details align="center">
+  <summary>💚 More Songs</summary>
+  <br>
+
+
+<a href="https://github.com/hemil585"> 
+  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=ud7lzeep4etezpr0eyiruatlo" alt="Data Card for Spotify">
+</a>
   
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ud7lzeep4etezpr0eyiruatlo&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=true&bar_color=00ff00&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=ud7lzeep4etezpr0eyiruatlo&redirect=true)
-</h1>
+</details>
+
+
+<p align="center">
+  <a href="https://github.com/hemil585"><img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks%20For%20Visitng!;Happy%20coding!%20;&font=Pacifico&center=true&width=650&height=100&color=58a6ff&vCenter=true&size=18"></a>
+</p>
