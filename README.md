@@ -233,8 +233,11 @@
 <img align="left" src="https://media.giphy.com/media/cOfwtFobGCLJBU3DNn/giphy.gif" width="70" height="70" ></a>
 <a href="https://github.com/hemil585"> 
  <img align="right"  src="https://media.giphy.com/media/cOfwtFobGCLJBU3DNn/giphy.gif" width="70" height="70" > </a>
-   
-  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ud7lzeep4etezpr0eyiruatlo&cover_image=true&theme=natemoo-re&show_offline=false&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+ 
+<a href="https://github.com/hemil585"> 
+  
+  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ud7lzeep4etezpr0eyiruatlo&cover_image=true&theme=natemoo-re&show_offline=false&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile) </a>
+  
  </h2>
 
 
@@ -252,5 +255,5 @@
 
 
 <p align="center">
-  <a href="https://github.com/hemil585"><img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks%20For%20Visitng!;Happy%20coding!%20;&font=Pacifico&center=true&width=650&height=100&color=58a6ff&vCenter=true&size=18"></a>
+  <a href="https://github.com/hemil585"><img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks%20For%20Visitng!;Happy%20coding!%20;&font=Pacifico&center=true&width=650&height=100&color=58a6ff&vCenter=true&size=30"></a>
 </p>
