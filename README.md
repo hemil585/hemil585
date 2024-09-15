@@ -1,3 +1,8 @@
+<div>
+<img align="center" src="https://i.imgur.com/4ASafy0.png">
+</div>
+<br/>
+
 <p align="center">
   
 <img src="https://readme-typing-svg.demolab.com/?lines=Hello%20There!%20;I'm%20Hemil%20Patel....;Nice%20to%20meet%20you!;&font=Fira%20Code&center=true&width=440&height=45&color=20C20E&vCenter=true&pause=1000&size=25" />
@@ -174,49 +179,11 @@
     </table>
 <br/>
 
----
-
-
 <p align="center">
             <img src="https://github-readme-activity-graph.vercel.app/graph?username=hemil585&bg_color=181816&color=dccf1e&line=ffae00&point=000000&area=true&hide_border=true"
                 width="95%" alt="activity graph">
     </p>
-
- <p align="center">
-        <a href="https://github.com/hemil585">
-            <img src="https://github-profile-trophy.vercel.app/?username=hemil585&column=-1&theme=dracula&layout=compact"
-                width="95%" />
-    </p>
-
----
 <br/>
-
- <h2 align="center" width="20" >
-
-<a href="https://github.com/hemil585"> 
-<img align="left" src="https://media.giphy.com/media/cOfwtFobGCLJBU3DNn/giphy.gif" width="70" height="70" ></a>
-<a href="https://github.com/hemil585"> 
- <img align="right"  src="https://media.giphy.com/media/cOfwtFobGCLJBU3DNn/giphy.gif" width="70" height="70" > </a>
- 
-<a href="https://github.com/hemil585"> 
-  
-  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ud7lzeep4etezpr0eyiruatlo&cover_image=true&theme=natemoo-re&show_offline=false&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile) </a>
-  
- </h2>
-
-
-
-<details align="center">
-  <summary>💚 More Songs</summary>
-  <br>
-
-
-<a href="https://github.com/hemil585"> 
-  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=ud7lzeep4etezpr0eyiruatlo" alt="Data Card for Spotify">
-</a>
-  
-</details>
-
 
 <p align="center">
   <a href="https://github.com/hemil585"><img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks%20For%20Visitng!;Happy%20coding!%20;&font=Pacifico&center=true&width=650&height=100&color=58a6ff&vCenter=true&size=30"></a>
