@@ -16,7 +16,7 @@
  <p align="center">🅐🅑🅞🅤🅣 🅜🅔</p>🚀  On my journey to learning the fundamentals of web development and beyond</h2><br><br>🌱 Building My Skills in <b>Front-end</b> and <b>Back-end</b> Technologies.<br><br>
 🔭 I'm currently learning Typescript, Postgres, Solidity and 69 others.
 <br><br>
-🎯 2024: Learn more about Web Development.
+🎯 2025: Learn more about Web Development.
 <br><br>
 
 💬 Ask me about anything [here](https://discordapp.com/users/584687212298502147).
